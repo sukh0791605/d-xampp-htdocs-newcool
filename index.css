@@ -1,0 +1,26 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+ background-color: white;
+}
+.Conatiner-form{
+    background-color: blue;
+    margin: 6rem;
+    display: flex;
+    border: 3px solid white;
+    justify-content: center;
+    -ms-flex-align: center;
+    align-items: center;
+    padding: 10rem;
+    border-radius: 20px;
+    color: white;
+}
+.Conatiner-form button{
+   padding:0.2em;
+   justify-content: center;
+   align-items: center;
+   margin: 10px;
+   margin-left: 60px;
+}
